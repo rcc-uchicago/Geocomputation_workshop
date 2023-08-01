@@ -2,7 +2,7 @@
   # Introduction to GIS and GeoComputation
 
   ## Topic:
-  The integration of GIS and GeoComputation has led to the development of new tools and methods for spatial analysis and modeling. GIS creates and manages spatial datasets, while GeoComputation processes and analyzes them using statistical and machine learning techniques. This combination provides powerful tools and methods for spatial data analysis, modeling, and visualization. This workshop will focus on open-source GIS libraries and tools such as GDAL, GeoPandas, PySAL, and GeoDa that are commonly used in this field.\n,
+  The integration of GIS and GeoComputation has led to the development of new tools and methods for spatial analysis and modeling. GIS creates and manages spatial datasets, while GeoComputation processes and analyzes them using statistical and machine learning techniques. This combination provides powerful tools and methods for spatial data analysis, modeling, and visualization. This workshop will focus on open-source GIS libraries and tools such as GDAL, GeoPandas, PySAL, and GeoDa that are commonly used in this field.
 
   ### Objectives:
 * Open source tools for exploratory spatial data analysis,
@@ -28,3 +28,5 @@ conda env create --file=environments.yml
 ```bash
 conda activate Geocomputation
 ```
+
+dataset: [Data.zip](https://uchicagoedu.sharepoint.com/:u:/s/RCCGISGroup/EWSmjjWjY89AvgNtp3RQXaQBpog0NKt-c1eVCbMLbUqCsA?e=SfkMuj)
